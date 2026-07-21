@@ -50,7 +50,7 @@ rag-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_25
+git clone https://github.com/gayatori-san/unprof_pyai_25.git
 cd rag-chatbot
 ```
 
